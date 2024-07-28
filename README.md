@@ -21,6 +21,17 @@
 
 </div><br>
 
+## 📱 Service 📱
+<div style="display:flex; flex-direction:row;">
+    <a href="https://play.google.com/store/apps/details?id=com.nbcfinalteam2.ddaraogae&pcampaignid=web_share">
+        <img src="https://github.com/user-attachments/assets/0697170a-a222-45c4-96da-c08d5a562505" style="width: 100px; height: auto;">
+    </a>
+</div>
+
+- [따라오개] 반려견 산책 이력 관리 서비스
+
+
+</div><br>
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
