@@ -1,17 +1,5 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=neoneoneo123&fontSize=70&color=0:8871e5,100:6994CDEE&stroke=6994CDEE)
-
--------
-[![neoneoneo123's GitHub stats](https://github-readme-stats.vercel.app/api?username=neoneoneo123&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/neoneoeno123/github-readme-stats)
  
-
-
-## 💻 blog 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@neoneoneo">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-</div><br>
-
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -30,15 +18,23 @@
 
 - [따라오개] 반려견 산책 이력 관리 서비스
 
-
 </div><br>
+
+
+## 💻 blog 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@neoneoneo">
+        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+</div><br>
+
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Language -->
     <p><strong>Language</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -64,10 +60,11 @@
         <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white">
         <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
     </div>
-    <!-- Framework -->
-    <p><strong>Framework</strong></p>
+    <!-- Frameworks, Platforms and Libraries -->
+    <p><strong>Frameworks, Platforms and Libraries</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
+        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+        <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
     </div>
     <!-- Version Control -->
     <p><strong>Version Control</strong></p>
@@ -83,3 +80,7 @@
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
     </div>
 </div><br>
+
+
+-------
+[![neoneoneo123's GitHub stats](https://github-readme-stats.vercel.app/api?username=neoneoneo123&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/neoneoeno123/github-readme-stats)
