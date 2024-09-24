@@ -20,6 +20,15 @@
 
 </div><br>
 
+<div style="display:flex; flex-direction:row;">
+    <a href="">
+        <img src="https://github.com/user-attachments/assets/a4740e72-9153-4b49-ba41-311b21cde56c" style="width: 100px; height: auto;">
+    </a>
+</div>
+
+- [어휘의 정원] 한글 어휘력 향상 퀴즈 앱 (출시 준비 중)
+
+</div><br>
 
 ## 💻 blog 💻
 <div style="display:flex; flex-direction:row;">
